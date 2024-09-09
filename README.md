@@ -39,8 +39,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarhesham&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Omar Hesham's GitHub Stats" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=omarhesham&style=for-the-badge">
+### 📊 &nbsp;Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarH22&layout=compact&theme=radical)   <a href="https://komarev.com/ghpvc/?username=omarhesham&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=omarhesham&style=for-the-badge">
 </a>
+
+
