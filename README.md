@@ -20,9 +20,9 @@
 
 <a href="https://www.linkedin.com/in/omar-hesham-094072239/" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Hesham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:omarhesham749@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Hesham-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://wa.me/201033494930" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Hesham-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 <a href="https://x.com/OmarHesham227" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Hesham-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="https://www.facebook.com/omar.hesham.338" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Hesham-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://wa.me/201033494930" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Hesham-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
