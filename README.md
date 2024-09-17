@@ -12,7 +12,7 @@
 
 - 🎓 A Software Engineering student, learning Front-End Development
 - 🏅 Certified in:
-  - Programming Fundamentals I & Beyond Fundamentals
+  - Programming Fundamentals & Beyond Fundamentals
   - Data Structures
   - Career Planning
   - Career Essentials in Software Development (Microsoft & LinkedIn)
