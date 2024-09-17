@@ -11,7 +11,13 @@
 </p>
 
 - 🎓 A Software Engineering student, learning Front-End Development
-- 🏅 Certified in Python
+- 🏅 Certified in:
+  - Programming Fundamentals I & Beyond Fundamentals
+  - Data Structures
+  - Career Planning
+  - Career Essentials in Software Development (Microsoft & LinkedIn)
+  - Introduction to Career Skills in Software Development
+  - C1 Advanced in English
 - 👨‍💻 Proficient in Python, C, C++, HTML, CSS, Java, and MySQL
 - 🚀 Currently learning JavaScript and React to enhance my front-end skills
 - 💬 Ask me about <strong>Python, C, HTML, CSS, and JavaScript</strong>
